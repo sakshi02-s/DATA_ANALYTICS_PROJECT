@@ -1,0 +1,1 @@
+Shopping Data Project\nThis file demonstrates basic write operations.\nThis line was appended later.\n
